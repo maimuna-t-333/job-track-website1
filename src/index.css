@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui"{
+  themes: light --default;
+}
+@plugin "daisyui/theme" {
+  name: "light";
+  default: true;
+  --color-primary: #1D4E89;
+  --color-secondary: #3C91E6;
+  --color-base-200:#A1C6EA ;
+  --color-base-300:#F4F7FA ;
+  --color-accent:#1A1A1A ;
+}
