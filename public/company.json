@@ -1,0 +1,315 @@
+[
+    {
+      "id": "1",
+      "name": "TechNova Inc.",
+      "logo": "https://example.com/logo1.png",
+      "location": "San Francisco, CA",
+      "website": "https://technova.com",
+      "industry": "Software Development",
+      "jobs": [
+        {
+          "id": "job-001",
+          "title": "Frontend Developer",
+          "bannerImage": "https://example.com/banner1.jpg",
+          "location": "San Francisco, CA",
+          "salary": "$80,000 - $100,000",
+          "jobType": "Full-time",
+          "description": "Work on dynamic UI projects with modern frameworks.",
+          "requirements": [
+            "Proficient in HTML, CSS, and JavaScript",
+            "Experience with React or Vue.js",
+            "Familiarity with RESTful APIs",
+            "Good understanding of responsive design",
+            "Excellent problem-solving skills"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "CloudCore Ltd.",
+      "logo": "https://example.com/logo2.png",
+      "location": "Austin, TX",
+      "website": "https://cloudcore.io",
+      "industry": "Cloud Computing",
+      "jobs": [
+        {
+          "id": "job-002",
+          "title": "DevOps Engineer",
+          "bannerImage": "https://example.com/banner2.jpg",
+          "location": "Austin, TX",
+          "salary": "$95,000 - $120,000",
+          "jobType": "Full-time",
+          "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+          "requirements": [
+            "Experience with AWS or Azure",
+            "Strong knowledge of Docker and Kubernetes",
+            "Familiarity with Jenkins and Git",
+            "Infrastructure as Code (Terraform)",
+            "Scripting with Bash or Python"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "DataDive",
+      "logo": "https://example.com/logo3.png",
+      "location": "New York, NY",
+      "website": "https://datadive.ai",
+      "industry": "Data Analytics",
+      "jobs": [
+        {
+          "id": "job-003",
+          "title": "Data Analyst",
+          "bannerImage": "https://example.com/banner3.jpg",
+          "location": "Remote",
+          "salary": "$70,000 - $90,000",
+          "jobType": "Remote",
+          "description": "Analyze complex datasets to provide business insights.",
+          "requirements": [
+            "Strong SQL skills",
+            "Proficient with Excel and Power BI/Tableau",
+            "Basic Python knowledge",
+            "Understanding of statistics",
+            "Excellent communication skills"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "SecureLayer",
+      "logo": "https://example.com/logo4.png",
+      "location": "Boston, MA",
+      "website": "https://securelayer.net",
+      "industry": "Cybersecurity",
+      "jobs": [
+        {
+          "id": "job-004",
+          "title": "Security Analyst",
+          "bannerImage": "https://example.com/banner4.jpg",
+          "location": "Boston, MA",
+          "salary": "$85,000 - $110,000",
+          "jobType": "Full-time",
+          "description": "Monitor and respond to security threats and incidents.",
+          "requirements": [
+            "Understanding of network protocols",
+            "Experience with SIEM tools",
+            "Familiarity with firewalls and IDS/IPS",
+            "Security certifications preferred",
+            "Strong analytical skills"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "MobileMint",
+      "logo": "https://example.com/logo5.png",
+      "location": "Seattle, WA",
+      "website": "https://mobilemint.com",
+      "industry": "Mobile App Development",
+      "jobs": [
+        {
+          "id": "job-005",
+          "title": "iOS Developer",
+          "bannerImage": "https://example.com/banner5.jpg",
+          "location": "Seattle, WA",
+          "salary": "$90,000 - $115,000",
+          "jobType": "Full-time",
+          "description": "Develop sleek and scalable iOS applications.",
+          "requirements": [
+            "Proficient in Swift and Xcode",
+            "Familiarity with UIKit and SwiftUI",
+            "Experience with RESTful APIs",
+            "Understanding of app lifecycle",
+            "Portfolio of past apps preferred"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "FinVerse",
+      "logo": "https://example.com/logo6.png",
+      "location": "Chicago, IL",
+      "website": "https://finverse.io",
+      "industry": "Fintech",
+      "jobs": [
+        {
+          "id": "job-006",
+          "title": "Backend Engineer",
+          "bannerImage": "https://example.com/banner6.jpg",
+          "location": "Chicago, IL",
+          "salary": "$100,000 - $130,000",
+          "jobType": "Full-time",
+          "description": "Build and maintain secure, high-performance backend systems.",
+          "requirements": [
+            "Strong knowledge of Node.js or Python",
+            "Database experience (PostgreSQL, MongoDB)",
+            "API design and integration",
+            "Understanding of security best practices",
+            "Agile development experience"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "HealthSync",
+      "logo": "https://example.com/logo7.png",
+      "location": "Denver, CO",
+      "website": "https://healthsync.org",
+      "industry": "Healthcare Tech",
+      "jobs": [
+        {
+          "id": "job-007",
+          "title": "UI/UX Designer",
+          "bannerImage": "https://example.com/banner7.jpg",
+          "location": "Denver, CO",
+          "salary": "$75,000 - $95,000",
+          "jobType": "Full-time",
+          "description": "Design intuitive and accessible health tech interfaces.",
+          "requirements": [
+            "Proficiency in Figma or Adobe XD",
+            "Strong UX research skills",
+            "Mobile and web design experience",
+            "Understanding of accessibility standards",
+            "Excellent design portfolio"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "AutoAlgo",
+      "logo": "https://example.com/logo8.png",
+      "location": "Los Angeles, CA",
+      "website": "https://autoalgo.ai",
+      "industry": "AI & Automation",
+      "jobs": [
+        {
+          "id": "job-008",
+          "title": "Machine Learning Engineer",
+          "bannerImage": "https://example.com/banner8.jpg",
+          "location": "Los Angeles, CA",
+          "salary": "$115,000 - $140,000",
+          "jobType": "Full-time",
+          "description": "Develop and deploy machine learning models for automation.",
+          "requirements": [
+            "Experience with TensorFlow or PyTorch",
+            "Strong Python skills",
+            "Knowledge of ML model deployment",
+            "Math/statistics background",
+            "Version control with Git"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "EcoTrack",
+      "logo": "https://example.com/logo9.png",
+      "location": "Portland, OR",
+      "website": "https://ecotrack.green",
+      "industry": "Environmental Tech",
+      "jobs": [
+        {
+          "id": "job-009",
+          "title": "Full Stack Developer",
+          "bannerImage": "https://example.com/banner9.jpg",
+          "location": "Remote",
+          "salary": "$85,000 - $105,000",
+          "jobType": "Remote",
+          "description": "Create web applications to support sustainability tracking.",
+          "requirements": [
+            "Experience with MERN stack",
+            "Responsive design principles",
+            "RESTful API integration",
+            "Understanding of cloud deployment",
+            "Clean, maintainable code"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "RetailRush",
+      "logo": "https://example.com/logo10.png",
+      "location": "Miami, FL",
+      "website": "https://retailrush.com",
+      "industry": "E-commerce",
+      "jobs": [
+        {
+          "id": "job-010",
+          "title": "Product Manager",
+          "bannerImage": "https://example.com/banner10.jpg",
+          "location": "Miami, FL",
+          "salary": "$95,000 - $125,000",
+          "jobType": "Full-time",
+          "description": "Lead product development for a fast-growing e-commerce platform.",
+          "requirements": [
+            "Strong project management skills",
+            "Experience with Agile/Scrum",
+            "Understanding of UI/UX",
+            "E-commerce experience",
+            "Stakeholder communication"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "GameGrid",
+      "logo": "https://example.com/logo11.png",
+      "location": "Austin, TX",
+      "website": "https://gamegrid.gg",
+      "industry": "Gaming",
+      "jobs": [
+        {
+          "id": "job-011",
+          "title": "Game Developer",
+          "bannerImage": "https://example.com/banner11.jpg",
+          "location": "Austin, TX",
+          "salary": "$85,000 - $110,000",
+          "jobType": "Full-time",
+          "description": "Build immersive gaming experiences for desktop and mobile.",
+          "requirements": [
+            "Unity or Unreal Engine experience",
+            "C# or C++ programming",
+            "3D asset integration",
+            "Strong math skills",
+            "Collaborative team player"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "EduTrack",
+      "logo": "https://example.com/logo12.png",
+      "location": "Atlanta, GA",
+      "website": "https://edutrack.org",
+      "industry": "EdTech",
+      "jobs": [
+        {
+          "id": "job-012",
+          "title": "Learning Experience Designer",
+          "bannerImage": "https://example.com/banner12.jpg",
+          "location": "Atlanta, GA",
+          "salary": "$70,000 - $95,000",
+          "jobType": "Full-time",
+          "description": "Design interactive learning solutions for digital classrooms.",
+          "requirements": [
+            "Experience with e-learning platforms",
+            "Instructional design skills",
+            "Visual design tools knowledge",
+            "Pedagogical understanding",
+            "Team collaboration"
+          ]
+        }
+      ]
+    }
+  ]
+  

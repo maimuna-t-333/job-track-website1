@@ -1,10 +1,17 @@
 import { createBrowserRouter } from "react-router";
 import MainLayout from "../Layout/MainLayout";
+import Company from "../Pages/Company";
 
 const router=createBrowserRouter([
     {
         path:'/',
-        element: <MainLayout></MainLayout>
+        element: <MainLayout></MainLayout>,
+        loader:()=>fetch('company.json'),
+        children:[{
+            path:'/companyDetails/:id',
+            element:<Company></Company>
+        }]
+
     },
     {
         path:'/login',

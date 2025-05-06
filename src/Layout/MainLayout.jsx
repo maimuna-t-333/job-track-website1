@@ -1,11 +1,14 @@
 import React from 'react';
-import { Outlet } from 'react-router';
+import { Outlet, useLoaderData } from 'react-router';
 import Navber from '../Components/Navber';
 import Footer from '../Components/Footer';
 import Banner from '../Components/Banner';
 import HowItWorks from '../Components/HowItWorks';
+import Home from '../Pages/Home';
 
 const MainLayout = () => {
+    const data=useLoaderData();
+    
     return (
         <div>
             <header>
@@ -13,10 +16,7 @@ const MainLayout = () => {
                 
             </header>
             <section>
-            <Banner></Banner>
-            </section>
-            <section>
-            <HowItWorks></HowItWorks>
+            <Home data={data}></Home>
             </section>
             <main>
                 <Outlet>
