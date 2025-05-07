@@ -15,11 +15,9 @@ const MainLayout = () => {
                 <Navber></Navber>
                 
             </header>
-            <section>
-            <Home data={data}></Home>
-            </section>
+
             <main>
-                <Outlet>
+                <Outlet context={{data}}>
                 
                 
 

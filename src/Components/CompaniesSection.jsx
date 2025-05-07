@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router';
 
 const CompaniesSection = ({ data }) => {
+    // console.log(data)
   return (
     <section className="py-16 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4">
@@ -15,7 +16,7 @@ const CompaniesSection = ({ data }) => {
             >
               <img
                 src={company.logo}
-                alt={company.name}
+                
                 className="w-full h-24 object-contain mb-3"
               />
               <p className="text-center font-semibold text-gray-800">{company.name}</p>

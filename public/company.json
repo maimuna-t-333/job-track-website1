@@ -2,7 +2,7 @@
     {
       "id": "1",
       "name": "TechNova Inc.",
-      "logo": "https://example.com/logo1.png",
+      "logo": "image/logo-1.jpg",
       "location": "San Francisco, CA",
       "website": "https://technova.com",
       "industry": "Software Development",
@@ -10,7 +10,7 @@
         {
           "id": "job-001",
           "title": "Frontend Developer",
-          "bannerImage": "https://example.com/banner1.jpg",
+          "bannerImage": "image/banner-1.jpg",
           "location": "San Francisco, CA",
           "salary": "$80,000 - $100,000",
           "jobType": "Full-time",
@@ -28,7 +28,7 @@
     {
       "id": "2",
       "name": "CloudCore Ltd.",
-      "logo": "https://example.com/logo2.png",
+      "logo": "image/logo-2.jpg",
       "location": "Austin, TX",
       "website": "https://cloudcore.io",
       "industry": "Cloud Computing",
@@ -36,7 +36,7 @@
         {
           "id": "job-002",
           "title": "DevOps Engineer",
-          "bannerImage": "https://example.com/banner2.jpg",
+          "bannerImage": "image/banner-2.jpg",
           "location": "Austin, TX",
           "salary": "$95,000 - $120,000",
           "jobType": "Full-time",
@@ -54,7 +54,7 @@
     {
       "id": "3",
       "name": "DataDive",
-      "logo": "https://example.com/logo3.png",
+      "logo": "image/logo-3.jpg",
       "location": "New York, NY",
       "website": "https://datadive.ai",
       "industry": "Data Analytics",
@@ -62,7 +62,7 @@
         {
           "id": "job-003",
           "title": "Data Analyst",
-          "bannerImage": "https://example.com/banner3.jpg",
+          "bannerImage": "image/banner-3.jpg",
           "location": "Remote",
           "salary": "$70,000 - $90,000",
           "jobType": "Remote",
@@ -80,7 +80,7 @@
     {
       "id": "4",
       "name": "SecureLayer",
-      "logo": "https://example.com/logo4.png",
+      "logo": "image/logo-4.jpg",
       "location": "Boston, MA",
       "website": "https://securelayer.net",
       "industry": "Cybersecurity",
@@ -88,7 +88,7 @@
         {
           "id": "job-004",
           "title": "Security Analyst",
-          "bannerImage": "https://example.com/banner4.jpg",
+          "bannerImage": "image/banner-4.jpg",
           "location": "Boston, MA",
           "salary": "$85,000 - $110,000",
           "jobType": "Full-time",
@@ -106,7 +106,7 @@
     {
       "id": "5",
       "name": "MobileMint",
-      "logo": "https://example.com/logo5.png",
+      "logo": "image/logo-5.jpg",
       "location": "Seattle, WA",
       "website": "https://mobilemint.com",
       "industry": "Mobile App Development",
@@ -114,7 +114,7 @@
         {
           "id": "job-005",
           "title": "iOS Developer",
-          "bannerImage": "https://example.com/banner5.jpg",
+          "bannerImage": "image/banner-5.jpg",
           "location": "Seattle, WA",
           "salary": "$90,000 - $115,000",
           "jobType": "Full-time",
@@ -132,7 +132,7 @@
     {
       "id": "6",
       "name": "FinVerse",
-      "logo": "https://example.com/logo6.png",
+      "logo": "image/logo-6.jpg",
       "location": "Chicago, IL",
       "website": "https://finverse.io",
       "industry": "Fintech",
@@ -140,7 +140,7 @@
         {
           "id": "job-006",
           "title": "Backend Engineer",
-          "bannerImage": "https://example.com/banner6.jpg",
+          "bannerImage": "image/banner-6.jpg",
           "location": "Chicago, IL",
           "salary": "$100,000 - $130,000",
           "jobType": "Full-time",
@@ -158,7 +158,7 @@
     {
       "id": "7",
       "name": "HealthSync",
-      "logo": "https://example.com/logo7.png",
+      "logo": "image/logo-7.jpg",
       "location": "Denver, CO",
       "website": "https://healthsync.org",
       "industry": "Healthcare Tech",
@@ -166,7 +166,7 @@
         {
           "id": "job-007",
           "title": "UI/UX Designer",
-          "bannerImage": "https://example.com/banner7.jpg",
+          "bannerImage": "image/banner-7.jpg",
           "location": "Denver, CO",
           "salary": "$75,000 - $95,000",
           "jobType": "Full-time",
@@ -184,7 +184,7 @@
     {
       "id": "8",
       "name": "AutoAlgo",
-      "logo": "https://example.com/logo8.png",
+      "logo": "image/logo-8.jpg",
       "location": "Los Angeles, CA",
       "website": "https://autoalgo.ai",
       "industry": "AI & Automation",
@@ -192,7 +192,7 @@
         {
           "id": "job-008",
           "title": "Machine Learning Engineer",
-          "bannerImage": "https://example.com/banner8.jpg",
+          "bannerImage": "image/banner-8.jpg",
           "location": "Los Angeles, CA",
           "salary": "$115,000 - $140,000",
           "jobType": "Full-time",
@@ -210,7 +210,7 @@
     {
       "id": "9",
       "name": "EcoTrack",
-      "logo": "https://example.com/logo9.png",
+      "logo": "image/logo-9.jpg",
       "location": "Portland, OR",
       "website": "https://ecotrack.green",
       "industry": "Environmental Tech",
@@ -218,7 +218,7 @@
         {
           "id": "job-009",
           "title": "Full Stack Developer",
-          "bannerImage": "https://example.com/banner9.jpg",
+          "bannerImage": "image/banner-9.jpg",
           "location": "Remote",
           "salary": "$85,000 - $105,000",
           "jobType": "Remote",
@@ -236,7 +236,7 @@
     {
       "id": "10",
       "name": "RetailRush",
-      "logo": "https://example.com/logo10.png",
+      "logo": "image/logo-10.jpg",
       "location": "Miami, FL",
       "website": "https://retailrush.com",
       "industry": "E-commerce",
@@ -244,7 +244,7 @@
         {
           "id": "job-010",
           "title": "Product Manager",
-          "bannerImage": "https://example.com/banner10.jpg",
+          "bannerImage": "image/banner-10.jpg",
           "location": "Miami, FL",
           "salary": "$95,000 - $125,000",
           "jobType": "Full-time",
@@ -262,7 +262,7 @@
     {
       "id": "11",
       "name": "GameGrid",
-      "logo": "https://example.com/logo11.png",
+      "logo": "image/logo-11.jpg",
       "location": "Austin, TX",
       "website": "https://gamegrid.gg",
       "industry": "Gaming",
@@ -270,7 +270,7 @@
         {
           "id": "job-011",
           "title": "Game Developer",
-          "bannerImage": "https://example.com/banner11.jpg",
+          "bannerImage": "image/banner-11.jpg",
           "location": "Austin, TX",
           "salary": "$85,000 - $110,000",
           "jobType": "Full-time",
@@ -288,7 +288,7 @@
     {
       "id": "12",
       "name": "EduTrack",
-      "logo": "https://example.com/logo12.png",
+      "logo": "image/logo-12.jpg",
       "location": "Atlanta, GA",
       "website": "https://edutrack.org",
       "industry": "EdTech",
@@ -296,7 +296,7 @@
         {
           "id": "job-012",
           "title": "Learning Experience Designer",
-          "bannerImage": "https://example.com/banner12.jpg",
+          "bannerImage": "image/banner-12.jpg",
           "location": "Atlanta, GA",
           "salary": "$70,000 - $95,000",
           "jobType": "Full-time",
