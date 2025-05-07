@@ -4,6 +4,7 @@ import HowItWorks from '../Components/HowItWorks';
 import CompaniesSection from '../Components/CompaniesSection';
 import { useOutletContext } from 'react-router';
 import FeaturedSection from '../Components/FeaturedSection';
+import SuccessStories from '../Components/SuccessStories';
 
 const Home = () => {
     const {data}=useOutletContext()
@@ -16,6 +17,7 @@ const Home = () => {
             <div>
                 <CompaniesSection data={data}></CompaniesSection>
             </div>
+            <SuccessStories></SuccessStories>
         </div>
     );
 };
