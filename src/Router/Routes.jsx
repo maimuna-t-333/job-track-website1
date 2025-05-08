@@ -4,6 +4,7 @@ import Company from "../Pages/Company";
 import Home from "../Pages/Home";
 import Login from "../Pages/Login";
 import Register from "../Pages/Register";
+import ErrorPage from "../Pages/ErrorPage";
 
 const router=createBrowserRouter([
     {
@@ -35,7 +36,7 @@ const router=createBrowserRouter([
     },
     {
         path:'/*',
-        element: <p>Error</p>
+        element: <ErrorPage></ErrorPage>
     },
 ])
 
