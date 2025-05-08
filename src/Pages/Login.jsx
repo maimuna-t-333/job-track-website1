@@ -1,8 +1,10 @@
 import React, { use, useState } from 'react';
 import { Link, useNavigate } from 'react-router';
 import { AuthContext } from '../Provider/AuthProvider';
+import { Helmet } from 'react-helmet';
 
 const Login = () => {
+    
     const navigate=useNavigate()
     const {signIn,googleLogIn}=use(AuthContext)
     const [error, setError]=useState(null)
