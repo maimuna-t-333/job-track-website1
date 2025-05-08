@@ -13,7 +13,7 @@ const Register = () => {
         const email=e.target.email.value
         const photo=e.target.photoUrl.value
         const pass=e.target.password.value
-        console.log({name,email,photo,pass}),
+        // console.log({name,email,photo,pass}),
         setError(null)
 
         if (pass.length < 6) {
@@ -29,7 +29,7 @@ const Register = () => {
         createUser(email,pass)
         .then(result=>{
             const user=result.user
-            console.log(user)
+            // console.log(user)
             setUser(user)
         })
         .catch(error=>{
@@ -44,7 +44,7 @@ const Register = () => {
         googleLogIn()
         .then(result=>{
             const user=result.user
-            console.log(user)
+            // console.log(user)
             
             navigate('/')
         })

@@ -15,7 +15,7 @@ const Login = () => {
         signIn(email,pass)
         .then(result=>{
             const user=result.user
-            console.log(user)
+            // console.log(user)
             
             navigate('/')
         })
@@ -28,7 +28,7 @@ const Login = () => {
             googleLogIn()
             .then(result=>{
                 const user=result.user
-                console.log(user)
+                // console.log(user)
                 
                 navigate('/')
             })
