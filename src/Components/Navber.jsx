@@ -3,10 +3,12 @@ import { Link } from 'react-router';
 import logo from '../assets/logo.png'
 import { AuthContext } from '../Provider/AuthProvider';
 import userI from '../../public/image/user.png'
+// import { Helmet } from 'react-helmet';
 
 
 
 const Navber = () => {
+
     const { user, logOut} = use(AuthContext)
     const handleLogOut=()=>{
         // alert('logout')
@@ -19,6 +21,7 @@ const Navber = () => {
         })
     }
     return (
+
         <div className='w-full'>
             <div className="navbar bg-base-300 shadow-sm justify-between w-full px-10">
                 <div className="navbar-start">
