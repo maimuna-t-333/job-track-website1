@@ -8,8 +8,8 @@ const SuccessStories = () => {
           role: 'Product Designer at Designify',
           testimonial:
             'I found my dream job within a week! The entire process, from browsing listings to landing interviews, was incredibly smooth. The personalized job recommendations were spot on, and I appreciated how easy it was to connect with hiring managers.',
-          photo: 'image/profilelogo.jpg',
-          companyLogo: 'image/logo-2.jpg',
+          photo: 'image/user.png',
+          companyLogo: 'image/logo-3.jpg',
         },
         {
           id: 's2',
@@ -17,8 +17,8 @@ const SuccessStories = () => {
           role: 'Backend Developer at TechNova',
           testimonial:
             'The job matching algorithm was incredibly precise — I was matched with roles that suited both my technical skills and career aspirations. Within days, I was interviewing with top-tier companies.',
-          photo: 'image/profilelogo.jpg',
-          companyLogo: 'image/logo-5.jpg',
+          photo: 'image/user.png',
+          companyLogo: 'image/logo-6.jpg',
         },
         {
           id: 's3',
@@ -26,7 +26,7 @@ const SuccessStories = () => {
           role: 'Marketing Strategist',
           testimonial:
             'From creating my profile to finally accepting an offer, the platform supported me at every step. The application process was seamless. I’m now working at a company that truly values my contribution.',
-            photo: 'image/profilelogo.jpg',
+            photo: 'image/user.png',
             companyLogo: 'image/logo-11.jpg'  
         },
       ];

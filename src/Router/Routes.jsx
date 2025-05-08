@@ -7,6 +7,7 @@ import Register from "../Pages/Register";
 import ErrorPage from "../Pages/ErrorPage";
 import Profile from "../Pages/Profile";
 import Review from "../Pages/Review";
+import UpdateProfile from "../Pages/UpdateProfile";
 
 const router=createBrowserRouter([
     {
@@ -43,6 +44,10 @@ const router=createBrowserRouter([
     {
         path:'/review',
         element: <Review></Review>
+    },
+    {
+        path:'/updateProfile',
+        element: <UpdateProfile></UpdateProfile>
     }
 ])
 
