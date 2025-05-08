@@ -6,6 +6,7 @@ import Login from "../Pages/Login";
 import Register from "../Pages/Register";
 import ErrorPage from "../Pages/ErrorPage";
 import Profile from "../Pages/Profile";
+import Review from "../Pages/Review";
 
 const router=createBrowserRouter([
     {
@@ -39,6 +40,10 @@ const router=createBrowserRouter([
         path:'/*',
         element: <ErrorPage></ErrorPage>
     },
+    {
+        path:'/review',
+        element: <Review></Review>
+    }
 ])
 
 export default router;
