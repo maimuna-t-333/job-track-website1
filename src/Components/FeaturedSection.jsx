@@ -7,7 +7,7 @@ const FeaturedJobs = ({ jobs }) => {
 
   return (
     <section className="py-16 bg-base-300">
-      <div className="max-w-4xl mx-auto px-4">
+      <div className="w-3/4 mx-auto px-4">
         <h2 className="text-3xl font-bold text-center mb-10">Featured Jobs</h2>
         <div className="carousel w-full space-x-4">
           {featured.map((job, index) => (
